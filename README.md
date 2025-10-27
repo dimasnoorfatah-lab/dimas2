@@ -14,7 +14,7 @@ latihan1.py dan latihan2.py pada file kondisi if
 
 latihan3.py dan latihan4.py pada file perulangan  
 
-# kondisi if 
+# kondisi if latihan1.py dan latihan2.py 
 
 lalu input kode pada latihan1.py dan screenshot hasil codingan latihan1.py 
 
@@ -23,7 +23,7 @@ lalu input kode pada latihan1.py dan screenshot hasil codingan latihan1.py
 
 lalu input kode pada latihan2.py dan screenshot hasil codingan latihan2.py
 
-<img width="1909" height="1079" alt="Image" src="https://github.com/user-attachments/assets/381b66d1-02fe-47d4-9c2c-0ad7fac790b5" />
+<img width="1890" height="1079" alt="Image" src="https://github.com/user-attachments/assets/42689e3d-eb13-48d0-9b2e-03d40c04351a" />
 
  setelah input kode pada file kondisi if lanjut input kode pada file perulangan latihan3.py dan latihan4.py 
  
